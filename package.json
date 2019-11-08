@@ -20,6 +20,7 @@
     "ajv": "^6.10.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
+    "react-router": "^5.1.2",
     "vue": "^2.6.10"
   },
   "devDependencies": {
